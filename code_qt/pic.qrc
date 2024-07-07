@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PIC/Return.png</file>
+        <file>PIC/Setting.png</file>
+        <file>PIC/ReturnSetting.png</file>
+        <file>PIC/node1.png</file>
+        <file>PIC/node2.png</file>
+        <file>PIC/node3.png</file>
+        <file>PIC/Output1.png</file>
+        <file>PIC/Output2.png</file>
+        <file>PIC/Output3.png</file>
+        <file>PIC/Series2.png</file>
+        <file>PIC/Series1.png</file>
+        <file>PIC/Series3.png</file>
+    </qresource>
+</RCC>
